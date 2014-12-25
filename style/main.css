@@ -1,0 +1,54 @@
+#body_back_color{
+    
+    background-color: #fff;
+    
+}
+#bs-example-navbar-collapse-1{
+    background-color: #fff;
+}
+#site_main_menu li a{
+    
+    background-color:  #fff;
+    color:#00427a;
+    display:block;
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 16px;
+    
+}
+#site_main_menu li.active a{
+    border-bottom: 5px solid #77b800;
+}
+#news_bg{
+  
+    background:url("../img/body_bg.gif") repeat-y;
+    padding: 3px;
+    
+}
+.sidebarblock{
+    
+    background:url("../img/block_bg.gif") repeat-x;
+}
+.sidebarblock h2{
+    color: #1a3a63;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 27px;
+    margin: 0 0 11px;
+    padding:3px 0 2px 4px;
+}
+#footer_main_menu{
+    
+    color:#00427a;
+    display:block;
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 16px;
+}
+#footer_group{
+    border-top: 1px #269abc;
+}
+#footer_last{
+    
+  padding:10px 120px 0 120px;
+}
